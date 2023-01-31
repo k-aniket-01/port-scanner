@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aniket940
 - 👀 I’m interested in Ethical Hacking...
-- 🌱 I’m currently learning .c|c++|python..
+- 🌱 I’m currently learning .c|c++|python|java|VAPT..
 - 💞️ I’m looking to collaborte on . Ethical haking..
 - 📫 How to reach me instagram @k_aniket_01...
 join my whatsapp group https://chat.whatsapp.com/BRGNAOH6NDE0KEhps3FKUL
